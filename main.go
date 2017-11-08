@@ -8,6 +8,7 @@ func main() {
 
 	// Variable declaration and assignment - shorthand
 	// Variables accessible within function
+	// can only use shorthand notation inside func
 	a := "Oh hey there"
 	b := 4
 	c := true
